@@ -1,1 +1,1 @@
-
+Compilador elegido: MinGW
